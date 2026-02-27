@@ -1,0 +1,16 @@
+D:\Kuliah\BELAJAR\POSTTEST_1\bin\Debug\net10.0-windows\POSTTEST_1.exe
+D:\Kuliah\BELAJAR\POSTTEST_1\bin\Debug\net10.0-windows\POSTTEST_1.deps.json
+D:\Kuliah\BELAJAR\POSTTEST_1\bin\Debug\net10.0-windows\POSTTEST_1.runtimeconfig.json
+D:\Kuliah\BELAJAR\POSTTEST_1\bin\Debug\net10.0-windows\POSTTEST_1.dll
+D:\Kuliah\BELAJAR\POSTTEST_1\bin\Debug\net10.0-windows\POSTTEST_1.pdb
+D:\Kuliah\BELAJAR\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.Form1.resources
+D:\Kuliah\BELAJAR\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.vbproj.GenerateResource.cache
+D:\Kuliah\BELAJAR\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\BELAJAR\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.AssemblyInfoInputs.cache
+D:\Kuliah\BELAJAR\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.AssemblyInfo.vb
+D:\Kuliah\BELAJAR\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.vbproj.CoreCompileInputs.cache
+D:\Kuliah\BELAJAR\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.dll
+D:\Kuliah\BELAJAR\POSTTEST_1\obj\Debug\net10.0-windows\refint\POSTTEST_1.dll
+D:\Kuliah\BELAJAR\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.pdb
+D:\Kuliah\BELAJAR\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.genruntimeconfig.cache
+D:\Kuliah\BELAJAR\POSTTEST_1\obj\Debug\net10.0-windows\ref\POSTTEST_1.dll
